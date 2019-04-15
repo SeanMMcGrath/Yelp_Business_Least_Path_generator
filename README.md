@@ -19,4 +19,4 @@ Examples:
 
 ![graph1](images/Graph1.png)
 
-![graph2](images/Graph2.phn)
+![graph2](images/Graph2.png)
