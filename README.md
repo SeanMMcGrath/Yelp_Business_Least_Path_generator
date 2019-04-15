@@ -17,6 +17,6 @@ My first GUI so yes, I know its ugly.
 
 Examples:
 
-![graph1](images/Graph1.png)
+![graph1](images/Graph1.PNG)
 
-![graph2](images/Graph2.png)
+![graph2](images/Graph2.PNG)
