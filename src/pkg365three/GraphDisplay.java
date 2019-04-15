@@ -39,7 +39,7 @@ public class GraphDisplay extends JComponent {
             for (int j = 0; j < path.size() - 1; j++) {
                 //gd.addConnection(j, j + 1, Color.red);
                 //Thread.sleep(500);
-                gd.addConnection(j, j + 1, Color.black);
+                gd.addConnection(j, j + 1, Color.black);//realtime had problems and is commented out
             }
        // } catch (InterruptedException e) {
        // }
