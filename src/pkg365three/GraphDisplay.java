@@ -16,10 +16,7 @@ import java.util.LinkedList;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-/**
- *
- * @author smm-pc
- */
+
 public class GraphDisplay extends JComponent {
 
     public void graphing(LinkedList<Vertex> path) {
