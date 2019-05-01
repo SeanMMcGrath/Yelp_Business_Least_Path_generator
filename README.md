@@ -11,9 +11,7 @@ Program runs K-means clustering as preprocessing on the data using location dist
 
 All disjointed sets are connected into a single set by creating an edge connecting them. 
 
-Then through user imput a point is decided and Dijkstra's algorithm is used to find the shortest path from that point to its closest cluster center.
-
-My first GUI so yes, I know its ugly.
+Then through user input a point is decided and Dijkstra's algorithm is used to find the shortest path from that point to its closest cluster center.
 
 Examples:
 
